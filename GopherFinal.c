@@ -1,3 +1,4 @@
+// Gopher problem from uvaonline. Solved in 0.000s
 #include<stdio.h>
 #include<math.h>
 
